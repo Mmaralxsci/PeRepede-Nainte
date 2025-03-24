@@ -1,0 +1,203 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:2:1-47:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Otilia\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ccdf1a99f15cf5197e75e7887fe73ee6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Otilia\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\159684ae8d788b1f65f4b31675243fe9\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Otilia\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\e26d9324cf5d1696055cd9bc04e339df\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Otilia\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\26137c914c8624959867d23b468a6594\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Otilia\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\0abae7b70e1676a44ac5c9e1ab99bfc4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Otilia\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\183084fdc42838619a9aa855c4483194\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Otilia\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\f6513fe23bf20fbe362bd11711237991\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Otilia\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\8abab44a90bb01d067608535eac0469a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Otilia\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\2ee47c744d6d008b858d44f6a26e79e0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Otilia\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\8d9b6daba2a1150b6b3144c88adcf17e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Otilia\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9eaf675cc966e213774942d842307f8c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Otilia\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\10a3fa356a5fb4697c1a9e0ee58036c5\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:2:1-47:12
+	package
+		ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:3:5-61
+		INJECTED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml
+		ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:2:1-47:12
+		INJECTED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml
+		ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:2:1-47:12
+		INJECTED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_CALENDAR
+ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:5:5-72
+	android:name
+		ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:5:22-69
+application
+ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:7:5-45:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Otilia\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\159684ae8d788b1f65f4b31675243fe9\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Otilia\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\159684ae8d788b1f65f4b31675243fe9\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:13:9-40
+activity#ro.t5tostudy.scoaladevalori.perepedenainte_app.LoginActivity
+ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:14:19-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:18:27-74
+activity#ro.t5tostudy.scoaladevalori.perepedenainte_app.UserSignInActivity
+ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:21:9-56
+	android:name
+		ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:21:19-53
+activity#ro.t5tostudy.scoaladevalori.perepedenainte_app.RegisterActivity
+ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:22:9-54
+	android:name
+		ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:22:19-51
+activity#ro.t5tostudy.scoaladevalori.perepedenainte_app.ProfileActivity
+ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:23:9-53
+	android:name
+		ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:23:19-50
+activity#ro.t5tostudy.scoaladevalori.perepedenainte_app.SearchActivity
+ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:24:9-52
+	android:name
+		ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:24:19-49
+activity#ro.t5tostudy.scoaladevalori.perepedenainte_app.PostActivity
+ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:25:9-50
+	android:name
+		ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:25:19-47
+activity#ro.t5tostudy.scoaladevalori.perepedenainte_app.PostedActivity
+ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:26:9-52
+	android:name
+		ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:26:19-49
+activity#ro.t5tostudy.scoaladevalori.perepedenainte_app.SavedActivity
+ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:27:9-51
+	android:name
+		ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:27:19-48
+activity#ro.t5tostudy.scoaladevalori.perepedenainte_app.ViewTestActivity
+ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:28:9-54
+	android:name
+		ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:28:19-51
+activity#ro.t5tostudy.scoaladevalori.perepedenainte_app.ViewAnswerActivity
+ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:29:9-56
+	android:name
+		ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:29:19-53
+activity#ro.t5tostudy.scoaladevalori.perepedenainte_app.ViewTheoryActivity
+ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:30:9-56
+	android:name
+		ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:30:19-53
+activity#ro.t5tostudy.scoaladevalori.perepedenainte_app.ViewPostedTestActivity
+ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:31:9-60
+	android:name
+		ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:31:19-57
+activity#ro.t5tostudy.scoaladevalori.perepedenainte_app.ViewPostedAnswerActivity
+ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:32:9-62
+	android:name
+		ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:32:19-59
+activity#ro.t5tostudy.scoaladevalori.perepedenainte_app.ViewPostedTheoryActivity
+ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:33:9-62
+	android:name
+		ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:33:19-59
+activity#ro.t5tostudy.scoaladevalori.perepedenainte_app.ViewSavedTestActivity
+ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:34:9-59
+	android:name
+		ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:34:19-56
+activity#ro.t5tostudy.scoaladevalori.perepedenainte_app.ViewSavedAnswerActivity
+ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:35:9-61
+	android:name
+		ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:35:19-58
+activity#ro.t5tostudy.scoaladevalori.perepedenainte_app.ViewSavedTheoryActivity
+ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:36:9-61
+	android:name
+		ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:36:19-58
+activity#ro.t5tostudy.scoaladevalori.perepedenainte_app.SettingsActivity
+ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:37:9-54
+	android:name
+		ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:37:19-51
+activity#ro.t5tostudy.scoaladevalori.perepedenainte_app.ListActivity
+ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:38:9-50
+	android:name
+		ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:38:19-47
+activity#ro.t5tostudy.scoaladevalori.perepedenainte_app.SearchPostedActivity
+ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:39:9-58
+	android:name
+		ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:39:19-55
+activity#ro.t5tostudy.scoaladevalori.perepedenainte_app.SearchSavedActivity
+ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:40:9-57
+	android:name
+		ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:40:19-54
+activity#ro.t5tostudy.scoaladevalori.perepedenainte_app.UserInformationActivity
+ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:41:9-61
+	android:name
+		ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:41:19-58
+activity#ro.t5tostudy.scoaladevalori.perepedenainte_app.ListPostedActivity
+ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:42:9-56
+	android:name
+		ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:42:19-53
+activity#ro.t5tostudy.scoaladevalori.perepedenainte_app.ListSavedActivity
+ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:43:9-55
+	android:name
+		ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:43:19-52
+activity#ro.t5tostudy.scoaladevalori.perepedenainte_app.EditUserInformationActivity
+ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:44:9-74
+	android:name
+		ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml:44:19-62
+uses-sdk
+INJECTED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml
+INJECTED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Otilia\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ccdf1a99f15cf5197e75e7887fe73ee6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Otilia\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ccdf1a99f15cf5197e75e7887fe73ee6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Otilia\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\159684ae8d788b1f65f4b31675243fe9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Otilia\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\159684ae8d788b1f65f4b31675243fe9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Otilia\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\e26d9324cf5d1696055cd9bc04e339df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Otilia\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\e26d9324cf5d1696055cd9bc04e339df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Otilia\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\26137c914c8624959867d23b468a6594\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Otilia\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\26137c914c8624959867d23b468a6594\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Otilia\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\0abae7b70e1676a44ac5c9e1ab99bfc4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Otilia\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\0abae7b70e1676a44ac5c9e1ab99bfc4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Otilia\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\183084fdc42838619a9aa855c4483194\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Otilia\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\183084fdc42838619a9aa855c4483194\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Otilia\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\f6513fe23bf20fbe362bd11711237991\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Otilia\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\f6513fe23bf20fbe362bd11711237991\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Otilia\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\8abab44a90bb01d067608535eac0469a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Otilia\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\8abab44a90bb01d067608535eac0469a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Otilia\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\2ee47c744d6d008b858d44f6a26e79e0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Otilia\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\2ee47c744d6d008b858d44f6a26e79e0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Otilia\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\8d9b6daba2a1150b6b3144c88adcf17e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Otilia\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\8d9b6daba2a1150b6b3144c88adcf17e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Otilia\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9eaf675cc966e213774942d842307f8c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Otilia\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9eaf675cc966e213774942d842307f8c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Otilia\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\10a3fa356a5fb4697c1a9e0ee58036c5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Otilia\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\10a3fa356a5fb4697c1a9e0ee58036c5\AndroidManifest.xml:20:5-44
+INJECTED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml
+INJECTED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml
+		ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml
+		ADDED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Cegeka\New folder\5ToStudy\app\src\main\AndroidManifest.xml
