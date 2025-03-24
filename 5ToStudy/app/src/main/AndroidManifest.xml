@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ro.t5tostudy.scoaladevalori.perepedenainte_app">
+
+    <uses-permission android:name="android.permission.READ_CALENDAR" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".LoginActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".UserSignInActivity" />
+        <activity android:name=".RegisterActivity" />
+        <activity android:name=".ProfileActivity" />
+        <activity android:name=".SearchActivity" />
+        <activity android:name=".PostActivity" />
+        <activity android:name=".PostedActivity" />
+        <activity android:name=".SavedActivity" />
+        <activity android:name=".ViewTestActivity" />
+        <activity android:name=".ViewAnswerActivity" />
+        <activity android:name=".ViewTheoryActivity" />
+        <activity android:name=".ViewPostedTestActivity" />
+        <activity android:name=".ViewPostedAnswerActivity" />
+        <activity android:name=".ViewPostedTheoryActivity" />
+        <activity android:name=".ViewSavedTestActivity" />
+        <activity android:name=".ViewSavedAnswerActivity" />
+        <activity android:name=".ViewSavedTheoryActivity" />
+        <activity android:name=".SettingsActivity" />
+        <activity android:name=".ListActivity" />
+        <activity android:name=".SearchPostedActivity" />
+        <activity android:name=".SearchSavedActivity" />
+        <activity android:name=".UserInformationActivity" />
+        <activity android:name=".ListPostedActivity" />
+        <activity android:name=".ListSavedActivity" />
+        <activity android:name=".EditUserInformationActivity"></activity>
+    </application>
+
+</manifest>
