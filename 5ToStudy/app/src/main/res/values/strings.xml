@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">Pe Repede \'Nainte</string>
+    <string name="back_btn">Înapoi</string>
+    <string name="sign_out_btn">Deconectare</string>
+    <string name="search_btn">Caută</string>
+    <string name="subject_et">Materie</string>
+    <string name="testteza_off_tgl">Test</string>
+    <string name="testteza_on_tgl">Teză</string>
+    <string name="grade_et">Clasă</string>
+    <string name="profile_et">Profil</string>
+    <string name="chapter_et">Capitol</string>
+    <string name="login_btn">Autentificare</string>
+    <string name="register_btn">Creează Cont</string>
+    <string name="post_btn">Postează</string>
+    <string name="title_et">Titlu</string>
+    <string name="description_et">Descriere</string>
+    <string name="test_et">Introdu Testul</string>
+    <string name="answer_et">Introdu Răspunsurile</string>
+    <string name="theory_et">Introdu Teoria</string>
+    <string name="tests_btn">Teste</string>
+    <string name="posted_btn">Postate</string>
+    <string name="saved_btn">Salvate</string>
+    <string name="settings_btn">Setări</string>
+    <string name="username_tv">Nume</string>
+    <string name="new_username_et">Nume Nou</string>
+    <string name="new_password_et">Parolă</string>
+    <string name="check_new_password_et">Verificare Parolă</string>
+    <string name="email_et">E-mail</string>
+    <string name="test_btn">Test</string>
+    <string name="answer_btn">Răspunsuri</string>
+    <string name="theory_btn">Teorie</string>
+    <string name="save_btn">Salvează</string>
+    <string name="publisher_tv">Autor</string>
+    <string name="test_tv">Test</string>
+    <string name="answer_tv">Răspunsuri</string>
+    <string name="theory_tv">Teorie</string>
+    <string name="view_settings">Vizualizare Date Utilizator</string>
+    <string name="edit_settings">Editare Date Utilizator</string>
+
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+</resources>
+
